@@ -26,10 +26,7 @@ export default {
           }, 2000)
           this.v1 = !this.v1;
         }
-
-
         this.time();
-
 
       }, 4000);
     }
